@@ -2,4 +2,5 @@ Olá, esse é uma página WEB que contém algumas coisas mais avançadas, usa-se
 
 Um link para acesso rápido:
 VERCEL: https://html-sitede-fruta.vercel.app/home.html
+
 GitHub Pages: https://viniciuslopes2.github.io/HTML-SitedeFruta/
